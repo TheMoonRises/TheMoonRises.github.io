@@ -1,0 +1,40 @@
+.content {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 200px;
+}
+
+.mainbutton {
+  background: #9400D3;
+  position: absolute;
+  transform: translateY(60px);
+  height: 35px;
+  width: 200px;
+  overflow: auto;
+  cursor: pointer;
+  font-size: 14px;
+  z-index: 1;
+}
+.messenger {
+  background: #9400D3;
+  position: absolute;
+  transform: translateY(120px);
+  height: 35px;
+  width: 200px;
+  overflow: auto;
+  cursor: pointer;
+  font-size: 14px;
+  z-index: 1;
+}
+.friends {
+  background: #9400D3;
+  position: absolute;
+  transform: translateY(180px);
+  height: 35px;
+  width: 200px;
+  overflow: auto;
+  cursor: pointer;
+  font-size: 14px;
+  z-index: 1;
+}
